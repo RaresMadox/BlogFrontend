@@ -1,0 +1,28 @@
+  
+
+/*  font-family: Abel  */
+
+
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+
+/*  font-family: Anton  */
+@font-face {
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+/*  font-family: Josefin  */
+@font-face {
+    font-family: Josefin;
+    src: url('../fonts/Dancing_Script/static/DancingScript-Regular.ttf');
+}
+
+@font-face {
+    font-family: Dancing;
+    src: url('../fonts/Dancing_Script/static/DancingScript-Regular.ttf');
+}
+
